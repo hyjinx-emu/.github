@@ -1,4 +1,4 @@
-Welcome to the Hyjinx Emulator!
+Welcome to the Hyjinx Emulator project!
 
 This project was originally developed by @gdkchan (amongst others) and is a continuation of their works. We are not affiliated with Ryujinx other than in the original code.
 
